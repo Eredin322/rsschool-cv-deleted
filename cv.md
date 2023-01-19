@@ -1,7 +1,7 @@
 ![myPhoto][myPhoto]
 # :wave: Ilia Erokhin
 
-## 👩🏻💻 *FRONT-END DEVELOPER*
+## 👨‍💻 *FRONT-END DEVELOPER*
   
 ### :tipping_hand_man: About me
 🌱 Passionate junior front-end developer with a desire to learn and grow in a collaborative team environment. I've been doing web development since July 1, 2022. 
