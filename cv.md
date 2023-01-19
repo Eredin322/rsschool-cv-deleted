@@ -90,3 +90,4 @@ function findOdd(A) {
 [gmail]: mailto:iliaErokhin3000@gmail.com
 [github]: https://github.com/Eredin322
 [discord]: https://discordapp.com/users/360794215879540748
+
