@@ -1,2 +1,2 @@
 # [rsschool-cv][CV.md]
-[CV.md]: https://eredin322.github.io/rsschool-cv/
+[CV.md]: https://eredin322.github.io/rsschool-cv/cv.md
